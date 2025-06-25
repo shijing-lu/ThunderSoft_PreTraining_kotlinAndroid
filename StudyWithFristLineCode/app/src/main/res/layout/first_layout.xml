@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 1" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Intent to Second Activity" />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Intent to Third Activity" />
+    <Button
+        android:id="@+id/LifeCycle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LifeCycle" />
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open the contrals" />
+
+    <Button
+        android:id="@+id/AlertDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确定删除" />
+    <Button
+        android:id="@+id/ListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转ListView" />
+    <Button
+        android:id="@+id/CustomizeListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转自定义ListView" />
+    <Button
+        android:id="@+id/AsynMessageHandleActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转AsynMessageHandleActivity" />
+    <Button
+        android:id="@+id/startService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动服务" />
+    <Button
+        android:id="@+id/stopService"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="关闭服务" />
+
+    <Button
+        android:id="@+id/SentBroadcast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送广播" />
+    <Button
+        android:id="@+id/btnChangeTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="时间更改广播" />
+    <Button
+        android:id="@+id/makeCall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="拨打电话" />
+    <Button
+        android:id="@+id/phoneList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="电话列表" />
+    <Button
+        android:id="@+id/showDataCenter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示DataCenter数据" />
+</LinearLayout>

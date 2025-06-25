@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">StudyWithFristLineCode</string>
+    <string name="title_activity_frist">FristActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_four">fourActivity</string>
+    <string name="title_activity_life_cycle">LifeCycleActivity</string>
+    <string name="title_activity_controls">ControlsActivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_asyn_messagehandle">AsynMessagehandleActivity</string>
+    <string name="title_activity_phone_list">PhoneListActivity</string>
+    <string name="title_activity_data_center">DataCenterActivity</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="title_activity_customize_list_view">CustomizeListViewActivity</string>
 </resources>
